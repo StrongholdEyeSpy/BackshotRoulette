@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Rust
+target/
+
+# Обучение
+training/data/
+training/runs/
+
+# Декомпилированная игра — не коммитить
+decomp/
